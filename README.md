@@ -1,2 +1,6 @@
 # diameter-measurement
-An experiment for 
+
+## Installation
+```
+pip install -r requirements.txt
+```
