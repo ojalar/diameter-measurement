@@ -4,7 +4,7 @@ import os
 import sys
 
 # This class contains the functionalities required for measuring diameters with a camera
-class Camera:
+class DiaMes:
     def __init__(self):
         # camera intrinsic parameters
         self.mtx = None
